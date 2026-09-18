@@ -36,6 +36,14 @@ It explores:
 
 Agent-Me validates the architecture around one real identity. Cogstruct AI will generalize these ideas into infrastructure that enables people to build and govern their own AI Twins.
 
+## Open-source Initiatives
+
+### CyberMemoir
+
+[CyberMemoir](https://github.com/CyberMemoir) is an open-source internet culture memory initiative developed and maintained by Cogstruct AI.
+
+While Agent-Me explores personal memory for AI Twins, CyberMemoir explores how shared cultural context can be preserved, verified, and made usable by both people and AI. Both are built around evidence, provenance, context, and human review.
+
 ## Company
 
 Cogstruct AI is the AI Twin product, research, and open-source initiative of **Shigou Intelligent Technology (Shanghai) Co., Ltd.**
