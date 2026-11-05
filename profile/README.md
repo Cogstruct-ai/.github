@@ -3,13 +3,23 @@
 **记忆，构成智能。**  
 *Memory gives intelligence structure.*
 
-识构智能科技（上海）有限公司，位于中国上海。我们开展 AI 系统开发、记忆架构、知识检索与系统集成。
+识构智能科技（上海）有限公司，位于中国上海。我们为企业与团队提供 AI 智能体、知识库和记忆系统的定制开发、部署与系统集成服务。
 
-Cogstruct AI is a Shanghai-based company working on AI software, memory architecture, knowledge retrieval and system integration.
+Cogstruct AI is based in Shanghai. We build and deploy custom AI agents, knowledge bases and memory systems for teams and businesses.
 
 [官网 / Website](https://cogstruct.cn/) · [contact@cogstruct.cn](mailto:contact@cogstruct.cn)
 
 ## Work / 业务与项目
+
+### [AI 定制开发与部署 / Custom AI development & deployment](https://cogstruct.cn/work/enterprise/)
+
+**面向企业与团队的工程服务 / Engineering services for teams and businesses**
+
+我们可以根据业务流程和数据权限，定制 AI 智能体、知识库与记忆系统，并协助在客户现有服务器或云环境中完成部署、配置和上线。也可接入现有业务系统；具体开发范围、交付和维护方式按项目约定。
+
+We tailor AI agents, knowledge bases and memory systems to your workflows and data permissions, and help deploy, configure and launch them on your servers or in your cloud environment. We also integrate them with existing business systems. Scope, delivery and maintenance are agreed for each project.
+
+[部署与合作咨询 / Deployment inquiries](https://cogstruct.cn/contact/)
 
 ### [Agent-Me](https://github.com/jzjzzzzzzz/agent-me)
 
@@ -18,14 +28,6 @@ Cogstruct AI is a Shanghai-based company working on AI software, memory architec
 用个人知识、记忆和决策记录构建智能体。回答保留来源，执行过程可检查，资料和工具权限由用户管理。它是 AI Twin 方向的公开参考实现，不是人的数字复制；当前实践主要围绕单一身份，跨用户适用性仍需验证。
 
 A personal agent built around knowledge, memory and decision records, with cited answers, inspectable execution and user-controlled data and tools. An AI Twin reference implementation, not a digital replica. Current work centers on one identity; applicability across users still needs validation.
-
-### [企业 AI 系统 / Enterprise AI systems](https://cogstruct.cn/work/enterprise/)
-
-**工程服务 / Engineering services**
-
-定制智能体、记忆架构、知识检索与现有业务系统集成。开发范围、数据权限和验收方式按具体项目确定。
-
-Custom agents, memory architecture, knowledge retrieval and integration with existing business systems. Scope, data access and acceptance criteria are agreed for each project.
 
 ### [CyberMemoir](https://github.com/CyberMemoir)
 
