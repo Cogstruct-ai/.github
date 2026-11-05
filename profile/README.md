@@ -1,51 +1,62 @@
-# Cogstruct AI
+# Cogstruct AI / 识构智能
 
-**Building user-owned AI Twins grounded in verified memory, identity, and real-world context.**
+**记忆，构成智能。**  
+*Memory gives intelligence structure.*
 
-Cogstruct AI develops open and inspectable infrastructure for persistent personal AI systems that can remember, reason, and assist with evidence, explicit permissions, and clear human control.
+识构智能科技（上海）有限公司，位于中国上海。我们开展 AI 系统开发、记忆架构、知识检索与系统集成。
 
-## What is an AI Twin?
+Cogstruct AI is a Shanghai-based company working on AI software, memory architecture, knowledge retrieval and system integration.
 
-An AI Twin is a persistent, user-controlled AI agent built from verified knowledge, memories, relationships, preferences, and decision context.
+[官网 / Website](https://cogstruct.cn/) · [contact@cogstruct.cn](mailto:contact@cogstruct.cn)
 
-It is not a digital clone and does not claim to replace the person. Instead, it preserves context, communicates knowledge, and supports decisions while keeping evidence, permissions, and human control visible.
+## Work / 业务与项目
 
-## Principles
+### [Agent-Me](https://github.com/jzjzzzzzzz/agent-me)
 
-- **User-controlled** — the individual governs identity, memory, access, and deletion.
-- **Evidence-grounded** — personal claims connect to inspectable sources and provenance.
-- **Persistent** — authorized context can continue across conversations and evolve over time.
-- **Permissioned** — memory, integrations, and tools operate within explicit boundaries.
-- **Inspectable** — retrieval, decisions, and actions can be evaluated and audited.
-- **Human-directed** — the AI supports people without replacing their judgment.
+**开源软件 / Open-source software**
 
-## Current Work
+用个人知识、记忆和决策记录构建智能体。回答保留来源，执行过程可检查，资料和工具权限由用户管理。它是 AI Twin 方向的公开参考实现，不是人的数字复制；当前实践主要围绕单一身份，跨用户适用性仍需验证。
 
-### Agent-Me
+A personal agent built around knowledge, memory and decision records, with cited answers, inspectable execution and user-controlled data and tools. An AI Twin reference implementation, not a digital replica. Current work centers on one identity; applicability across users still needs validation.
 
-[Agent-Me](https://github.com/jzjzzzzzzz/agent-me) is the first public reference implementation of this direction.
+### [企业 AI 系统 / Enterprise AI systems](https://cogstruct.cn/work/enterprise/)
 
-It explores:
+**工程服务 / Engineering services**
 
-- structured personal, episodic, and semantic memory;
-- evidence-grounded responses with citations;
-- knowledge graphs and relationship context;
-- typed agent planning and controlled tool execution;
-- identity-aware communication;
-- evaluation, provenance, privacy, and human control.
+定制智能体、记忆架构、知识检索与现有业务系统集成。开发范围、数据权限和验收方式按具体项目确定。
 
-Agent-Me validates the architecture around one real identity. Cogstruct AI will generalize these ideas into infrastructure that enables people to build and govern their own AI Twins.
+Custom agents, memory architecture, knowledge retrieval and integration with existing business systems. Scope, data access and acceptance criteria are agreed for each project.
 
-## Open-source Initiatives
+### [CyberMemoir](https://github.com/CyberMemoir)
 
-### CyberMemoir
+**实验性项目 / Experimental initiative**
 
-[CyberMemoir](https://github.com/CyberMemoir) is an open-source internet culture memory initiative developed and maintained by Cogstruct AI.
+由识构智能开发和维护的互联网文化记忆项目，整理中文互联网文化资料，记录来源、时间与传播背景。资料尚不完备，部分条目仍待人工复核。
 
-While Agent-Me explores personal memory for AI Twins, CyberMemoir explores how shared cultural context can be preserved, verified, and made usable by both people and AI. Both are built around evidence, provenance, context, and human review.
+An internet culture memory initiative developed and maintained by Cogstruct AI, organizing Chinese internet culture records with sources, dates and context. The collection is experimental and incomplete; some records await human review.
 
-## Company
+## Research / 研究方向
 
-Cogstruct AI is the AI Twin product, research, and open-source initiative of **Shigou Intelligent Technology (Shanghai) Co., Ltd.**
+- 持续记忆 / Persistent memory
+- AI Twin 与个性化智能 / AI Twins and personalization
+- 具身接口 / Embodied interfaces
+- 数字文化记忆 / Digital cultural memory
 
-Founded by [Zhixuan (John) Zhou](https://github.com/jzjzzzzzzz), Founder and Chairman of Shigou Intelligent Technology (Shanghai) Co., Ltd.
+具身接口仍处于研究阶段，尚未发布相关硬件。  
+Embodied interfaces remain exploratory research; no related hardware has been released.
+
+## Principles / 工作原则
+
+- **人拥有控制权 / People stay in control** — 用户决定资料保留、访问、删除及工具授权。Users govern retention, access, deletion and tool permissions.
+- **回答需要来处 / Answers need sources** — 保留可核查的引用与执行记录，明确证据缺口。Keep checkable references and execution records, with gaps made explicit.
+- **系统面向长期 / Build for the long term** — 在设计阶段考虑记忆更新、权限变更、测试和维护。Plan for memory updates, permission changes, testing and maintenance from the start.
+
+## Company & contact / 公司与联系
+
+**识构智能科技（上海）有限公司**  
+Shigou Intelligent Technology (Shanghai) Co., Ltd.  
+Shanghai, China
+
+- Website: [cogstruct.cn](https://cogstruct.cn/)
+- Email: [contact@cogstruct.cn](mailto:contact@cogstruct.cn)
+- Founder and Chairman: [Zhixuan (John) Zhou](https://github.com/jzjzzzzzzz)
