@@ -1,17 +1,41 @@
 # Cogstruct AI / 识构智能
 
-**记忆，构成智能。**  
-*Memory gives intelligence structure.*
+**先理解，再构建。**  
+*Understand first. Then build.*
 
-识构智能科技（上海）有限公司，位于中国上海。我们为企业与团队提供 AI 智能体、知识库和记忆系统的定制开发、部署与系统集成服务。
+“识”，意味着认识与理解；“构”，意味着设计与实现。
 
-Cogstruct AI is based in Shanghai. We build and deploy custom AI agents, knowledge bases and memory systems for teams and businesses.
+Our Chinese name brings together “识” — knowing and understanding — and “构” — design and implementation.
+
+识构智能科技（上海）有限公司专注于软件开发与智能系统的设计和应用。我们希望将对问题的理解落实到实际工程中，开发实用、可靠、便于持续完善的产品与系统。
+
+Based in Shanghai, Cogstruct AI develops software and designs intelligent systems for practical use. We aim to turn a clear understanding of a problem into useful, reliable products and systems that can be maintained and improved over time.
 
 [官网 / Website](https://cogstruct.cn/) · [contact@cogstruct.cn](mailto:contact@cogstruct.cn)
 
+## 我们如何工作 / How we work
+
+### 理解实际需求 / Understand the actual need
+
+从具体问题出发，了解业务场景和使用需求，再确定合适的技术方案。
+
+Start with a specific problem. Understand the business context and how the system will be used before choosing a technical approach.
+
+### 重视工程质量 / Focus on engineering quality
+
+关注设计、开发和测试的每个环节，让技术方案成为能够实际使用的系统。
+
+Pay attention to design, development and testing, turning a technical plan into a system people can use.
+
+### 考虑长期发展 / Plan for the long term
+
+在开发过程中兼顾系统的维护、扩展与持续改进，为后续使用保留空间。
+
+Consider maintenance, extension and ongoing improvement during development, leaving room for the system to evolve.
+
 ## Work / 业务与项目
 
-### [AI 定制开发与部署 / Custom AI development & deployment](https://cogstruct.cn/work/enterprise/)
+### [定制开发与部署 / Custom development & deployment](https://cogstruct.cn/work/enterprise/)
 
 **面向企业与团队的工程服务 / Engineering services for teams and businesses**
 
@@ -47,16 +71,10 @@ An internet culture memory initiative developed and maintained by Cogstruct AI, 
 具身接口仍处于研究阶段，尚未发布相关硬件。  
 Embodied interfaces remain exploratory research; no related hardware has been released.
 
-## Principles / 工作原则
-
-- **人拥有控制权 / People stay in control** — 用户决定资料保留、访问、删除及工具授权。Users govern retention, access, deletion and tool permissions.
-- **回答需要来处 / Answers need sources** — 保留可核查的引用与执行记录，明确证据缺口。Keep checkable references and execution records, with gaps made explicit.
-- **系统面向长期 / Build for the long term** — 在设计阶段考虑记忆更新、权限变更、测试和维护。Plan for memory updates, permission changes, testing and maintenance from the start.
-
 ## Company & contact / 公司与联系
 
 **识构智能科技（上海）有限公司**  
-Shigou Intelligent Technology (Shanghai) Co., Ltd.  
+Cogstruct AI  
 Shanghai, China
 
 - Website: [cogstruct.cn](https://cogstruct.cn/)
